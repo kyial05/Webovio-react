@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Webovio-react/static/css/main.0e40b08d.css",
+    "main.js": "/Webovio-react/static/js/main.d84840af.js",
+    "static/media/footerSkin.svg": "/Webovio-react/static/media/footerSkin.714656c5d3831e0cbd48.svg",
+    "static/media/Balensiaga.svg": "/Webovio-react/static/media/Balensiaga.ba1588ffb5795ac434209874faa3dc8f.svg",
+    "static/media/firstBg.svg": "/Webovio-react/static/media/firstBg.e1e3d4e0036de4e72b76.svg",
+    "static/media/3dModel.svg": "/Webovio-react/static/media/3dModel.94a4fcf7f36865c02fc86f57832cf616.svg",
+    "static/media/onlineB.svg": "/Webovio-react/static/media/onlineB.05ecee13d71eaa0147951693ded4c24d.svg",
+    "static/media/Screenshot.png": "/Webovio-react/static/media/Screenshot.5771e617367a067c9ff6.png",
+    "static/media/fouthBalensiagaOne.png": "/Webovio-react/static/media/fouthBalensiagaOne.c4a8a826ae2d50c1b731.png",
+    "static/media/Poppins-Regular.ttf": "/Webovio-react/static/media/Poppins-Regular.4211496d0e075ffe7c2f.ttf",
+    "static/media/PhalenLeadership.svg": "/Webovio-react/static/media/PhalenLeadership.3cfdfc5647b1e1943cc262467a3de02e.svg",
+    "static/media/Leadership-Academy-Logo.svg": "/Webovio-react/static/media/Leadership-Academy-Logo.890275104f9be4f0a00d1d39dbd91076.svg",
+    "static/media/Andrew-Porter-Logo.svg": "/Webovio-react/static/media/Andrew-Porter-Logo.65a89b4fc2c94b2e19ca4b5436b1c17d.svg",
+    "static/media/Ideal.svg": "/Webovio-react/static/media/Ideal.957d7fa5da5d5f79d4188502f8c0f3e2.svg",
+    "static/media/Wal.svg": "/Webovio-react/static/media/Wal.aaa03ddcf830a7031a90a658321936ed.svg",
+    "static/media/footerLogo.svg": "/Webovio-react/static/media/footerLogo.df0d41b6dfe8105ce839cc47bf7b994a.svg",
+    "static/media/Logo.svg": "/Webovio-react/static/media/Logo.d041c3ae6c4b64bc424744df59f3e69a.svg",
+    "index.html": "/Webovio-react/index.html",
+    "static/media/menuIcon.svg": "/Webovio-react/static/media/menuIcon.76a8a55e9d91c83fa2e8199371b77c96.svg",
+    "main.0e40b08d.css.map": "/Webovio-react/static/css/main.0e40b08d.css.map",
+    "main.d84840af.js.map": "/Webovio-react/static/js/main.d84840af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e40b08d.css",
+    "static/js/main.d84840af.js"
+  ]
+}
